@@ -19,6 +19,6 @@
 - Project-Odin: A flexible platform for automating mundane tasks, synchronizing with team members, and more.
 
 ## Connect with me 🌐
+- Discord: wheatberrywitch
 - [LinkedIn](https://www.linkedin.com/in/sophiaperzan)
-- [GitHub](https://github.com/sophiaperzan)
 - [Website](https://perzan.dev)
