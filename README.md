@@ -2,7 +2,7 @@
 
 - 👩‍💻 I'm a Computer Science student at Queen's University, based in Toronto and Kingston, ON.
 - 🔬 I have a strong passion for Software Development & Distributed Systems. I love tinkering with my pi4-cluster, and working on interesting projects!
-- 💻 Skilled in Python, JavaScript, Java, TypeScript, HTML, CSS, and React.
+- 💻 Skilled in Python, JavaScript, TypeScript, React, Svelte, HTML, and CSS.
 - 💡 Always eager to learn and explore new technologies to create efficient and user-friendly solutions.
 - 🎯 I am open to opportunities in software development, web development, or related fields to further grow my skills and make a positive impact.
 - 📫 You can reach me at sophia@perzan.dev
