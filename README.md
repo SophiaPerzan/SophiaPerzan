@@ -6,6 +6,7 @@
 - 💡 Always eager to learn and explore new technologies to create efficient and user-friendly solutions.
 - 🎯 I am open to opportunities in software development, web development, or related fields to further grow my skills and make a positive impact.
 - 📫 You can reach me at sophia@perzan.dev
+- 📺 I also run an automated [TikTok channel](https://www.tiktok.com/@narreddit?is_from_webapp=1&sender_device=pc) using content generated from [NarReddit](http://narreddit.com).
 
 ## Some of my Github Stats 📈
 <p align = "center">
@@ -21,4 +22,3 @@
 ## Connect with me 🌐
 - Discord: wheatberrywitch
 - [LinkedIn](https://www.linkedin.com/in/sophiaperzan)
-- [Website](https://perzan.dev)
