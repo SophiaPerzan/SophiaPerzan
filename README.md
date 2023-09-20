@@ -17,7 +17,7 @@
 ## My Recent Projects 📚
 - [NarReddit:](http://narreddit.com) Full-stack web-app which enables users to automate the creation of engaging, multilingual TikTok narrations from top-rated Reddit posts.
 - JS-Chess: A proof-of-concept exploring user-run distributed computing chess analysis for a chess platform.
-- Project-Odin: A flexible platform for automating mundane tasks, synchronizing with team members, and more.
+- BareMetal Kubernetes Cluster: A 12-node raspberry pi 4 kuberentes cluster
 
 ## Connect with me 🌐
 - Discord: wheatberrywitch
