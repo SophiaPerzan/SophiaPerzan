@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sophia Perzan!
 I'm a Software Infrastructure Engineer Intern at [Deep Genomics](https://github.com/deepgenomics), where I work on internal tooling and help manage our computational and cloud infrastructure.
 
-When I'm not working, you could fine me:
+When I'm not working, you could find me:
 - Playing DnD
 - Woodworking
 - Taking photos
